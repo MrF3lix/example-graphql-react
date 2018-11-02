@@ -3,6 +3,8 @@
 This project is to show how we can integrate GraphQL in exisint projects that are based on React and Redux.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+For the GraphQL server I used the Launchpad webapp from Apollo. The code can be viewed here: https://launchpad.graphql.com/rrmm1rq3kn
+
 ## Available Scripts
 
 In the project directory, you can run:
