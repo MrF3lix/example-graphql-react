@@ -32,7 +32,6 @@ class CourseDetail extends React.Component {
     }
 }
 
-
 const mapStateToProps = state => ({
     course: state.global.selectedCourse
 })

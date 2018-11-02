@@ -14,6 +14,20 @@ const initalState = {
                 }
             }
         `,
+        getCategories: `
+            {
+                allCourses {
+                    topic
+                }
+            }
+        `,
+        getAuthors: `
+            {
+                allCourses {
+                    author
+                }
+            }
+        `,
         getCourse: `
             {
                 course(id: %v) {
